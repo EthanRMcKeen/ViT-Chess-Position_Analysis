@@ -38,3 +38,6 @@ This project explores the use of Vision Transformers (ViTs) for classifying indi
     </tr>
   </tbody>
 </table>
+
+
+Dataset used can be found here: https://www.kaggle.com/datasets/koryakinp/chess-positions
